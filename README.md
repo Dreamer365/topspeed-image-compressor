@@ -39,5 +39,5 @@
 
 软件完全免费使用，但不公开源码，不允许篡改和售卖，不允许用于任何商业用途和非法用途，使用过程中遇到问题或者有任何建议可以提交 issue：
 
-- [Github Issue](https://github.com/Dreamer365/TopspeedImageCompressor/issues)
+- [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
 - [Gitee Issue](https://gitee.com/dreamer365/topspeed-image-compressor/issues)
