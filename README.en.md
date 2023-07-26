@@ -39,5 +39,5 @@
 
 The software is completely free to use, but the source code is not public. It is not allowed to be tampered with and sold. It is not allowed to be used for any commercial or illegal use. If you encounter problems during use or have any suggestions, you can submit an issue.
 
-- [Github Issue](https://github.com/Dreamer365/TopspeedImageCompressor/issues)
+- [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
 - [Gitee Issue](https://gitee.com/dreamer365/topspeed-image-compressor/issues)
