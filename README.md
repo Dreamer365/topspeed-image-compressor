@@ -1,43 +1,43 @@
 [中文](README.md) | [English](README.en.md)
 
-# 极速图片压缩器
-### 一款速度极快的图片压缩软件
+# Topspeed Image Compressor
+### An extremely fast image compression software
 
 <hr>
 
-- [特点](#feature)
-- [下载](#download)
-- [软件截图](#screenshot)
-- [使用说明](#explain)
+- [Features](#feature)
+- [Download](#download)
+- [Screenshot](#screenshot)
+- [Explain](#explain)
 
 
-<h2 id="#feature">特点</h2>
+<h2 id="#feature">Features</h2>
 
-- 超快的压缩速度
-- 支持压缩 `GB` 级别的超大图片
-- 支持 `7` 种图片格式
-- 支持图片预览
-- 支持通过拖拽、点击、`ctrl + v` 等多种方式添加图片
-- 支持添加文件夹
-- 实时显示当前的压缩情况
-- 完全在本地执行压缩，不会上传图片，保证隐私安全
-
-
-<h2 id="#download">下载</h2>
-
-- [Github 下载](https://github.com/Dreamer365/TopspeedImageCompressor/blob/main/TopspeedImageCompressor.exe)
-- [Gitee 下载](https://gitee.com/dreamer365/topspeed-image-compressor/blob/master/TopspeedImageCompressor.exe)
-    
-
-<h2 id="#screenshot">软件截图</h2>
-
-![截图](screenshot/win-cn-1.png)
-![截图](screenshot/win-cn-2.png)
+- Ultra-fast compression speed
+- Support compression of GB-level oversized images
+- Support seven image formats
+- Support adding images by drag, click, or ctrl+v
+- Support adding folders
+- Real-time display of current compression
+- Support image preview
+- Fully compressed locally, and will not upload images to ensure privacy and security.
 
 
-<h2 id="#explain">使用说明</h2>
+<h2 id="#download">Download</h2>
 
-软件完全免费使用，但不公开源码，不允许篡改和售卖，不允许用于任何商业用途和非法用途，使用过程中遇到问题或者有任何建议可以提交 issue：
+- [Github download](https://github.com/Dreamer365/TopspeedImageCompressor/blob/main/TopspeedImageCompressor.exe)
+- [Gitee download](https://gitee.com/dreamer365/topspeed-image-compressor/blob/master/TopspeedImageCompressor.exe)
+
+
+<h2 id="#screenshot">Screenshot</h2>
+
+![Screenshot](screenshot/win-en-1.png)
+![Screenshot](screenshot/win-en-2.png)
+
+
+<h2 id="#explain">Explain</h2>
+
+The software is completely free to use, but the source code is not public. It is not allowed to be tampered with and sold. It is not allowed to be used for any commercial or illegal use. If you encounter problems during use or have any suggestions, you can submit an issue.
 
 - [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
 - [Gitee Issue](https://gitee.com/dreamer365/topspeed-image-compressor/issues)
