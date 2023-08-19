@@ -31,8 +31,8 @@
 
 <h2 id="#screenshot">软件截图</h2>
 
-![截图](screenshot/win-cn-1.png)
-![截图](screenshot/win-cn-2.png)
+![截图](screenshot/1.png)
+![截图](screenshot/2.png)
 
 
 <h2 id="#explain">使用说明</h2>

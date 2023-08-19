@@ -31,8 +31,8 @@
 
 <h2 id="#screenshot">Screenshot</h2>
 
-![Screenshot](screenshot/win-en-1.png)
-![Screenshot](screenshot/win-en-2.png)
+![Screenshot](screenshot/1.png)
+![Screenshot](screenshot/2.png)
 
 
 <h2 id="#explain">Explain</h2>
