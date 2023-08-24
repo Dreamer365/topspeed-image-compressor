@@ -47,6 +47,6 @@ The software is completely free to use, but the source code is not public. It is
 
 <h2 id="#online">Online</h2>
 
-For 'jpg' and 'png' formats, there is also an online page on the browser. Go and have a try!
+For `jpg` and `png` formats, there is also an online page on the browser. Go and have a try!
 
 - [Online](https://www.ticompressor.com/online/)
