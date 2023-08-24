@@ -9,6 +9,8 @@
 - [下载](#download)
 - [软件截图](#screenshot)
 - [使用说明](#explain)
+- [在线压缩版](#online)
+
 
 
 <h2 id="#feature">特点</h2>
@@ -41,3 +43,10 @@
 
 - [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
 - [Gitee Issue](https://gitee.com/dreamer365/topspeed-image-compressor/issues)
+
+
+<h2 id="#online">在线压缩版</h2>
+
+对于 `jpg` 和 `png` 格式的图片，还提供了浏览器端的在线压缩版，快去试试吧！
+
+- [在线压缩](https://www.ticompressor.com/online/)
