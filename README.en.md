@@ -9,6 +9,8 @@
 - [Download](#download)
 - [Screenshot](#screenshot)
 - [Explain](#explain)
+- [Online](#online)
+
 
 
 <h2 id="#feature">Features</h2>
@@ -41,3 +43,10 @@ The software is completely free to use, but the source code is not public. It is
 
 - [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
 - [Gitee Issue](https://gitee.com/dreamer365/topspeed-image-compressor/issues)
+
+
+<h2 id="#online">Online</h2>
+
+For 'jpg' and 'png' formats, there is also an online page on the browser. Go and have a try!
+
+- [Online](https://www.ticompressor.com/online/)
