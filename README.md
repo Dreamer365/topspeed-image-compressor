@@ -27,8 +27,7 @@
 
 <h2 id="#download">下载</h2>
 
-- [Github 下载](https://github.com/Dreamer365/TopspeedImageCompressor/blob/main/TopspeedImageCompressor.exe)
-- [Gitee 下载](https://gitee.com/dreamer365/topspeed-image-compressor/blob/master/TopspeedImageCompressor.exe)
+- [前往下载](https://www.ticompressor.com/online/)
     
 
 <h2 id="#screenshot">软件截图</h2>

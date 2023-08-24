@@ -27,8 +27,7 @@
 
 <h2 id="#download">Download</h2>
 
-- [Github download](https://github.com/Dreamer365/TopspeedImageCompressor/blob/main/TopspeedImageCompressor.exe)
-- [Gitee download](https://gitee.com/dreamer365/topspeed-image-compressor/blob/master/TopspeedImageCompressor.exe)
+- [Download](https://www.ticompressor.com/online/)
 
 
 <h2 id="#screenshot">Screenshot</h2>
