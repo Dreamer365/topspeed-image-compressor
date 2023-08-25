@@ -27,7 +27,7 @@
 
 <h2 id="#download">下载</h2>
 
-- 最新版本 1.3.0（更新于 20230825）[前往下载](https://www.ticompressor.com/online/)
+- 最新版本 1.3.0（更新于 2023-08-25）[前往下载](https://www.ticompressor.com/online/)
     
 
 <h2 id="#screenshot">软件截图</h2>
