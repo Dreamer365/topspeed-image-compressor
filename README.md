@@ -12,6 +12,7 @@
 - [在线压缩](#online)
 - [版权说明](#copyright)
 - [问题反馈](#feedback)
+- [支持平台](#support)
 
 
 <h2 id="#feature">软件特点</h2>
@@ -104,3 +105,9 @@
 由于图片的繁杂性以及图片原始数据存在太多的不确定性和多样性，因此在压缩过程中可能会出现很多边界问题和意料之外的情况，进而导致压缩失败，希望使用此软件的用户在遇到上述情况时，能积极反馈相关问题，并在条件允许的情况下，提供原始图片便于进行问题排查。此外，在使用过程中如有任何建议也可随时提交 issue：
 
 - [Github Issue](https://github.com/Dreamer365/topspeed-image-compressor/issues)
+
+<hr>
+
+<h2 id="#support">支持平台</h2>
+
+软件支持 `Windows 10` 和 `Windows 11` 操作系统。
