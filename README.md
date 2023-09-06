@@ -20,7 +20,7 @@
 
 ## 下载软件
 
-- [下载最新版本](https://www.ticompressor.com/online/)
+- [前往下载](https://www.ticompressor.com/online/)
 
 ## 软件特点
 
