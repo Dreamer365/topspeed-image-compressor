@@ -38,13 +38,13 @@
 
 ### 浅色模式
 
-![截图](screenshot/1.png)
-![截图](screenshot/5.png)
+![截图](screenshot/light-1.png)
+![截图](screenshot/light-2.png)
 
 ### 深色模式
 
-![截图](screenshot/3.png)
-![截图](screenshot/6.png)
+![截图](screenshot/dark-1.png)
+![截图](screenshot/dark-2.png)
 
 ## 版本记录
 
