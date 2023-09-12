@@ -39,12 +39,12 @@
 ### 浅色模式
 
 ![截图](screenshot/1.png)
-![截图](screenshot/2.png)
+![截图](screenshot/5.png)
 
 ### 深色模式
 
 ![截图](screenshot/3.png)
-![截图](screenshot/4.png)
+![截图](screenshot/6.png)
 
 <hr>
 
