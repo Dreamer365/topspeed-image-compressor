@@ -46,8 +46,6 @@
 ![截图](screenshot/3.png)
 ![截图](screenshot/6.png)
 
-<hr>
-
 ## 版本记录
 
 - v1.4.0（发布于 2023-09-06）
