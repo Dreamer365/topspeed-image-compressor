@@ -36,15 +36,8 @@
 
 ## 软件截图
 
-### 浅色模式
-
-![截图](screenshot/light-1.png)
-![截图](screenshot/light-2.png)
-
-### 深色模式
-
-![截图](screenshot/dark-1.png)
-![截图](screenshot/dark-2.png)
+![截图](screenshot/l-1.png)
+![截图](screenshot/l-2.png)
 
 ## 版本记录
 
