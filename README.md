@@ -34,8 +34,8 @@
 
 ## 软件截图
 
-![截图](screenshot/l-1.png)
-![截图](screenshot/l-2.png)
+![截图](screenshot/1.png)
+![截图](screenshot/2.png)
 
 ## 版本记录
 
