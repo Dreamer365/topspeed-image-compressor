@@ -20,7 +20,7 @@
 
 ## 下载软件
 
-- [前往下载](https://www.ticompressor.com/online/)
+- [前往下载](https://www.zgcoder.com/topspeed-image-compressor/online/)
 
 ## 软件特点
 
@@ -55,13 +55,13 @@
 
 ## 软件网站
 
-- [访问网站](https://www.ticompressor.com/online/)
+- [访问网站](https://www.zgcoder.com/topspeed-image-compressor/online/)
 
 ## 在线压缩
 
 对于 `JPG` 和 `PNG` 格式的图片，还提供了一个可在浏览器端使用的在线压缩，快去体验吧！
 
-- [立即体验](https://www.ticompressor.com/online/)
+- [立即体验](https://www.zgcoder.com/topspeed-image-compressor/online/)
 
 ## 问题反馈
 
